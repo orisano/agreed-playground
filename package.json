@@ -1,0 +1,8 @@
+{
+  "scripts": {
+      "run:agreed": "agreed-server --path ./agreed.js --port 3010"
+  },
+  "dependencies": {
+    "@agreed/cli": "^0.1.0"
+  }
+}
